@@ -72,6 +72,8 @@ server，此套件是Laravel官方推薦
 
 
 
+<br/>
+<br/>
 # 接收來自SOCKET SERVER訊息-LARAVEL ECHO 介紹
 
 Laravel Echo是一個Javascript包，運行在Client端，透過Laravel自帶的Redis驅動，我們可以很方便地在客戶端建立Channel，總共會有三種Channel 類型
