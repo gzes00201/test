@@ -46,7 +46,7 @@
 >   實際上Socket.IO 幾乎都是使用 WebSocket 來傳輸，所以 Socket.IO 也可以視為一個
 >   WebSocket的通信工具，除非某些瀏覽器不支援WebSocket，則會自動轉換其他方式傳輸，但API使用方式則維持不變，主要工作為控制通信的IO。
 
-![](media/6bf848f9fef88961092f46d01c58c17d.png)
+![](pic1.png)<br/>
 
 ＃透過運行Laravel-Echo-Server使伺服器變成Socket Server
 
@@ -57,7 +57,7 @@
 Redis是一種 儲存於記憶體內的鍵與值資料庫系統，因此常常被用在需要快取（Cache）一些資料的場合，可以減輕許多後端資料庫的壓力，在laravel可使用Redis來發送訊息給Socket
 Server 
 
-![](media/01e03ffb880f0ce0eb4c54be79cce0ea.png)
+![](pic2.png)<br/>
 
 
 
@@ -68,7 +68,7 @@ Server
 Laravel-Echo-Server是使  Laravel Echo 搭配 Socket.IO 的服務器，類似於自架 pusher
 server，此套件是Laravel官方推薦
 
-![](media/135b9cae86562b9b4091a89e45518331.png)
+![](pic3.png)<br/>
 
 
 
