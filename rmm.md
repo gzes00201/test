@@ -16,7 +16,7 @@
 1.  **WebSocket**
 
 >   是一種HTML5之後的新通訊協定，使用TCP協定，此技術目的為解決HTTP無法達到全雙工通訊的缺點
->   ![](bg2017051502.png)
+>   ![](bg2017051502.png)<br/>
 >   過去HTTP為發出一個Request給Server取回一個Response，當Clinent想隨時顯示最新的資料時，
 >   必須不斷的送出Request，並檢查是否有新的Response回來，此動作會浪費大量的頻寬
 
